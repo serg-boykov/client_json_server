@@ -1,0 +1,71 @@
+{
+  "cars": [
+    {
+      "name": "Fiat",
+      "price": 5833,
+      "model": "Fiat Grande Punto",
+      "transmission": "manual",
+      "brakes": [
+        "disc",
+        "drum"
+      ],
+      "color": "Green",
+      "date": "2011-05-03",
+      "description": "Хэтчбек 2006 – 2008!",
+      "id": 1
+    },
+    {
+      "name": "Mazda",
+      "price": 9150,
+      "model": "CX-9",
+      "transmission": "auto",
+      "brakes": [
+        "disc"
+      ],
+      "color": "Magenta",
+      "date": "2014-08-03",
+      "description": "Модель выпускалась с января 2012 по январь 2016",
+      "id": 2
+    },
+    {
+      "name": "ВАЗ",
+      "price": 1333,
+      "model": "2105",
+      "transmission": "manual",
+      "brakes": [
+        "drum",
+        "disc"
+      ],
+      "color": "Orange",
+      "date": "1992-03-30",
+      "description": "Производство с 1980 по 1995 гг.",
+      "id": 3
+    },
+    {
+      "name": "Ferrari",
+      "price": 359900,
+      "model": "F550 Barchetta",
+      "transmission": "manual",
+      "brakes": [
+        "disc"
+      ],
+      "color": "Red",
+      "date": "2001-09-13",
+      "description": "Модель выпускалась c 2000 г. по 2001 г.",
+      "id": 4
+    },
+    {
+      "name": "Mersedes",
+      "price": 48316,
+      "model": "Х-class 2.3 D",
+      "transmission": "auto",
+      "brakes": [
+        "disc"
+      ],
+      "color": "Purple",
+      "date": "2019-09-07",
+      "description": "Запущена в производство в 2017 году",
+      "id": 5
+    }
+  ]
+}
